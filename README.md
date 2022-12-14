@@ -1,3 +1,3 @@
 # BakerLab landing page
-- [DEMO LINK](https://andriyzhabynets.github.io/landing-BakerLab/)
+- [BakerLab Page](https://andriyzhabynets.github.io/landing-BakerLab/)
 
